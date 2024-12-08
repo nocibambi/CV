@@ -1,8 +1,7 @@
 # András Novoszáth CV
 
 - [PDF](Andras_Novoszath_CV_BDE.pdf)
-- [Markdown](Andras_Novoszath_CV_BDE.md)
-- markdown: {{ site.baseurl }}{% link Andras_Novoszath_CV_BDE.md %}
-- markdown: [markdown]({{ site.baseurl }}{% link Andras_Novoszath_CV_BDE.md %})
-- markdown: {% link Andras_Novoszath_CV_BDE.md %}
-- markdown: [markdown]({% link Andras_Novoszath_CV_BDE.md %})
+- [Markdown raw](../_includes/Andras_Novoszath_CV_BDE.md)
+- Markdown raw: [markdown]({{ site.baseurl }}{% link _includes/Andras_Novoszath_CV_BDE.md %})
+- [Markdown rendered](../Andras_Novoszath_CV_BDE.md)
+- Markdown rendered: [markdown]({{ site.baseurl }}{% link Andras_Novoszath_CV_BDE.md %})
