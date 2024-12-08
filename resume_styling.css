@@ -1,0 +1,118 @@
+body {
+    font-family: "Times New Roman", Times, serif !important;
+    color: #000000;
+    max-width: 2000px;
+    background-color: #fff;
+    padding: 0;
+    
+    font-size: 18px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    line-height: 22px;
+}
+
+/* Header/Name styling */
+h1 {
+    color: #000000;
+    font-size: 28px;
+    text-align: center;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Contact info styling */
+h1 + p {
+    color: #000000;
+    text-align: center;    
+    border-bottom: 1.5px solid #000000;    
+
+    margin: 0;
+    padding: 0;
+}
+
+/* Section headers */
+h2 {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    
+    text-transform: uppercase;    
+    padding: 0;    
+    margin-bottom: 0px;
+    margin-top: 20px;    
+}
+
+h2 + p {
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+/* Job title and company styling */
+h3 {
+    color: #000000;
+    font-size: 18px;
+    
+    margin: 0;
+    padding: 0;
+}
+
+h3 + p {
+    color: #000000;;
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+/* List styling */
+ul {
+    margin: 0px 0;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-top: 1px;    
+    margin-bottom: 2px;
+}
+
+/* Links styling */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Skills section styling */
+strong {
+    color: #000000;
+}
+
+
+/* Pipe separator styling */
+.pipe-separator {
+    margin: 0 5px;
+    color: #000000;;
+}
+
+/* Print-friendly styles */
+/* @media print {
+    body {
+        margin: 0;
+        padding: 0px;
+        max-width: none;
+    }
+
+    a {
+        color: #000;
+    }
+
+    h1, h2 {
+        border-color: #000;
+    }
+} */
