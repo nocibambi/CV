@@ -1,3 +1,7 @@
+---
+layout: null
+# published: false
+---
 <link rel="stylesheet" href="resume_styling.css">
 
 # András Novoszáth
