@@ -17,7 +17,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 - Facilitated data-driven decision-making across **finance, blockchain, governance, and health** sectors.
 - Created customized **reporting** solutions. Bolstered funding for medical device development by building reports from clinical trials.
-- Implemented **generative AI workflows** to create **infrastructure and data flows documenation** for architecture review.
+- Used **generative AI** to create **infrastructure and data flows documenation** for architecture review.
 - Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
 
 ### Web3 Data Engineering
@@ -30,7 +30,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 - **Data Engineering**: Data Collection (APIs, Beautifulsoup, Selenium, Playwright) | Data Validation (Pydantic, mypy, dataclasses) | Data Processing (pandas) | Databases (Microsoft Server SQL, InfluxDB) |  Flat files (csv, JSON, parquet, feather) | Data Monitoring (AWS Cloudwatch, EventBridge) | Data Pipeline Orchestration (Apache Airflow, AWS Step Functions) | Datalake (AWS S3, AWS Athena, AWS Glue)
 - **Software Engineering**: Cloud Technologies (AWS) | AWS Microservices (Lambda, EC2, SNS, SQS) | Testing (pytest) | Version Control (git, Github, Gitlab) | Frontend (HTML, CSS, Javascript, Anvil) | Backend (Django, FastAPI) | Static-site generators (Jekyl, Hugo, MkDocs, Sphinx) | Python tooling (pip, conda, poetry, venv, black, flake8, mypy)
-- **DevOps**: CI/CD (AWS Codebuild/Codepipeline, Github Actions) | Infrastructure as Code (Python CDK/Terraform) | Software Deployment (Docker, AWS CodeArtifact, AWS ECR) |  System Administration (Linux, bash)
+- **DevOps**: CI/CD (AWS Codebuild/Codepipeline, Github Actions) | Infrastructure as Code (Python CDK/Terraform) | Software Deployment (Docker, AWS CodeArtifact, AWS ECR) |  SysAdmin (Linux, bash)
 - **Blockchain Analytics**: On-chain Analytics (Flipside, Dune, web3.py, Etherscan) | Off-chain Analytics (Discord, Discourse) | Web3 Data Sources (Infura, Quicknode, Alchemy, Coingecko API, Etherscan API, The Graph)
 - **Data Science**: Data processing (pandas, numpy) | Data Visualization (matplotlib, seaborn, altair, bokeh, plotly) | Querying (MS SQL, BigQuery, InfluxDB, Snowflake SQL) | Time-Series Analytics (pandas, InfluxDB) | Dashboards (Streamlit, Anvil/Dash)
 - **Machine Learning**: Libraries (scikit-learn, keras), Applications (prediction, clustering, forecasting,  anomaly detection), Methods (multi-label classification, rebalancing, cross-validation, evaluation, feature engineering)
@@ -90,9 +90,9 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 ### Token Swap Pool/Market Comparison | 2024 August -- September
 
-- Built a data collection and ETL pipeline comparing **cryptocurrency token swap** platforms.
+- Built a data collection and ETL pipeline comparing **cryptocurrency token swap** platforms. (pandas, Pydantic)
 - Researched and identified reliable **Web3 DEX and CEX data** sources. (CoinGecko, Binance, Dune)
-- Developed an ETL pipeline to fetch, parse, transform, and store **cryptocurrency market data**. (Python, pandas, Pydantic)
+- Developed an ETL pipeline to fetch, parse, transform, and store **cryptocurrency market data**.
 
 ### Staking Rewards Web3 Blockchain Analytics Challenge | 2023 April
 
