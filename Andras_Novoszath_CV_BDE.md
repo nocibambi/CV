@@ -100,6 +100,5 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 ---
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
-
 <!-- References -->
 [data3]: https://skool.com/data3
