@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="resume_styling.css">
-
 # András Novoszáth
 
 Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https://www.linkedin.com/in/andrasnovoszath/)
@@ -102,3 +100,5 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
 <!-- References -->
 [data3]: https://skool.com/data
+
+<link rel="stylesheet" href="resume_styling.css">
