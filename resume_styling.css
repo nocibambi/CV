@@ -4,7 +4,6 @@ body {
     max-width: 2000px;
     background-color: #fff;
     padding: 0;
-    
     font-size: 18px;
     margin-top: 1px;
     margin-bottom: 1px;
@@ -98,6 +97,12 @@ strong {
 .pipe-separator {
     margin: 0 5px;
     color: #000000;;
+}
+
+/* Endnote */
+.endnote {
+    border-top: 1.5px solid #000000;    
+    text-align: center;
 }
 
 /* Print-friendly styles */
