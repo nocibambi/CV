@@ -24,7 +24,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 - Developed high-impact **on-chain and off-chain analytics tools**. Built data pipelines for DAOs providing community, governance, and market insights.
 - Built a point tracker evaluating **Aave** liquidity providers.
-- Created [Web3 Data community][data3]
+- Created a **[community][data3]** to learn about and build on Web3 data.
 
 ## Skills
 
@@ -60,7 +60,6 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 - Developed a time-series machine learning glucose **forecasting model**. Achieved the prediction accuracy of the market-leading commercial medical devices. (Python, numpy, pandas, scikit-learn)
 - Built a **reporting pipeline** from clinical trial data assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
 - Designed a machine learning **feature engineering** evaluation pipeline. (Python, numpy, scikit-learn)
-- Wrote in-depth **technical content** about Machine Learning, MLOps, SQL, and Python.
 
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | January 2016 -- May 2018
 
