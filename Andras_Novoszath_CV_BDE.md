@@ -98,8 +98,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 - - Analyzed on-chain data about stakers on **PancakeSwap** and **Solana** validators. (Python, pandas, web3.py, Quicknode, Infura)
 
-{: .publications}
-**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to][dev-to-profile]
+<p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to][dev-to-profile]</p>
 
 <!-- References -->
 
