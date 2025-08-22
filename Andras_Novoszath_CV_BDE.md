@@ -106,5 +106,6 @@ Publications: [Machines of Trust](https://www.machinesoftrust.com/) | Blockchain
 
 <!-- References -->
 
-- [data3]: https://skool.com/data3
-- [dev-to-profile]: https://dev.to/nocibambi
+[data3]: https://skool.com/data3
+
+[dev-to-profile]: https://dev.to/nocibambi
