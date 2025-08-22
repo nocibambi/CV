@@ -24,7 +24,6 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 - Developed high-impact **on-chain and off-chain analytics tools**. Built data pipelines for DAOs providing community, governance, and market insights.
 - Built a point tracker evaluating **Aave** liquidity providers.
-- Published [content][dev-to-profile] about Web3 data
 - Created [Web3 Data community][data3]
 
 ## Skills
@@ -65,8 +64,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | January 2016 -- May 2018
 
-- Created documentation for a **B2B wealth management SaaS**. Ensured clarity and usability for both technical and non-technical stakeholders.
-- Developed B2B **business proposals** highlighting platform capabilities. Wrote content marketing **white papers** supporting client engagement.
+- Supported the development of a **B2B wealth management SaaS** with **regulation analysis, documentation, business proposals, and marketing content**.
 
 ## Education
 
