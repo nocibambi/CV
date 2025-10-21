@@ -2,18 +2,20 @@
 
 Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https://www.linkedin.com/in/andrasnovoszath/)
 
+Delivers Python analytics with researchers and engineers, replacing legacy systems with cloud-native APIs and resilient automation. Writes clean pandas/numpy code, integrates REST workflows, and hardens AWS-based CI/CD. Operates in Agile teams, models in SQL Server, and keeps monitoring, logging, and performance tuning in focus for smooth upgrades and support.
+
 ## Career Highlights
 
 ### Data Platform Engineering
 
-- Developed ETL pipelines to provide on-chain and off-chain data about **Web3, DeFi and DAOs**.
+- Developed ETL pipelines to provide on-chain and off-chain data about **Web3, Health, and Governance**.
 - Engineered **serverless microservices**, infrastructure, and ETL pipelines enhancing data flow and access with Python and AWS. Reduced workflow inefficiencies in CI/CD pipelines.
 - Built out, improved, and maintained **data operation pipelines and processes**.
 - Architected **monitoring and alerting** for data collection and CI/CD.
 
 ### Data Science and Machine Learning
 
-- Facilitated data-driven decision-making across **finance, blockchain, governance, and health** sectors.
+- Facilitated data-driven decision-making across **blockchain, governance, and health** sectors.
 - Created customized **reporting** solutions. Bolstered funding for medical device development by building reports from clinical trials.
 - Used **generative AI** to create **infrastructure and data flows documenation** for architecture review.
 - Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
@@ -53,7 +55,7 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 
 ### Data Scientist & Engineer | Freelancer | Remote | September 2018 -- June 2023
 
-- Resolved advanced analytics and data challenges across **finance, Web3, DeFi, health, and energy** sectors.
+- Resolved advanced analytics and data challenges across **Web3, Health, and Energy** sectors.
 - Built **analytics pipeline for Terra** crypto arbitrage opportunities. Collected, processed and analyzed on-chain Terra/Cosmos data. (Flipside, Python, pandas)
 - Developed a time-series machine learning glucose **forecasting model**. Achieved the prediction accuracy of the market-leading commercial medical devices. (Python, numpy, pandas, scikit-learn)
 - Built a **reporting pipeline** from clinical trial data assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
@@ -99,6 +101,6 @@ Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https:/
 ---
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
 <!-- References -->
-[data3]: https://skool.com/data
+[data3]: https://www.skool.com/data3-5738
 
 <link rel="stylesheet" href="resume_styling.css">
