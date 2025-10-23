@@ -2,20 +2,20 @@
 
 Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https://www.linkedin.com/in/andrasnovoszath/)
 
-Delivers **Python analytics** with researchers and engineers, **replacing legacy systems with cloud-native APIs** and resilient automation. Writes clean **pandas/numpy** code, integrates **REST workflows**, and hardens **AWS-based CI/CD**. Operates in **Agile** teams, models in **SQL Server**, and keeps **monitoring, logging, and performance tuning** in focus for smooth upgrades and support.
+Designs, delivers, and operates **serverless cloud data collection platforms** and **Python ETL pipelines** to fetch on-chain and enterprise sources. Hardens **AWS observability and CI/CD** so engineering teams ship faster. Replaces legacy scripts with **event-driven microservices**, and drives analytics for **Web3, biotech, and governance** partners. Builds **monitoring and alerting**, and keeps AI-assisted automation and documentation ready for regulated stakeholders.
 
 ## Career Highlights
 
 ### Data Platform Engineering
 
-- Developed ETL pipelines to provide on-chain and off-chain data about **Web3, Health, and Governance**.
+- Developed ETL pipelines to provide on-chain and off-chain data in **Web3, Biotech, and Governance**.
 - Engineered **serverless microservices**, infrastructure, and ETL pipelines enhancing data flow and access with Python and AWS. Reduced workflow inefficiencies in CI/CD pipelines.
 - Built out, improved, and maintained **data operation pipelines and processes**.
 - Architected **monitoring and alerting** for data collection and CI/CD.
 
 ### Data Science and Machine Learning
 
-- Facilitated data-driven decision-making across **blockchain, governance, and health** sectors.
+- Facilitated data-driven decision-making across **blockchain, governance, and biotech** sectors.
 - Created customized **reporting** solutions. Bolstered funding for medical device development by building reports from clinical trials.
 - Used **generative AI** to create **infrastructure and data flows documenation** for architecture review.
 - Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
