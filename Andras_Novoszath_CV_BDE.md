@@ -8,8 +8,8 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 
 ### Clinical Data Science & Engineering
 
-- Built a **clincal reporting pipeline** to assess a therapeutic device to train pelvic floor muscle for stress urinary incontinence. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
-- Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
+- Built a **clincal reporting pipeline** to assess a therapeutic device to train pelvic floor muscle for stress urinary incontinence. Generated actionable insights informing investment decisions.
+- Built a glucose **forecasting model** based on clinical trial data achieving the accuracy of frontline medical devices.
 
 ### Data Platform Engineering
 
@@ -57,8 +57,8 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 
 - Resolved advanced analytics and data challenges across **Web3, Health, and Energy** sectors.
 - Built **analytics pipeline** for crypto arbitrage opportunities. Collected, processed and analyzed on-chain Terra/Cosmos data. (Flipside, Python, pandas)
-- Developed a time-series machine learning glucose **forecasting model**. Achieved the prediction accuracy of the market-leading commercial medical devices. (Python, numpy, pandas, scikit-learn)
-- Built a **reporting pipeline** from [clinical trial data][renovia] assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
+- [Bioepic][bioepic]: Developed a time-series machine learning glucose **forecasting model**. Achieved the prediction accuracy of the market-leading commercial medical devices. (Python, numpy, pandas, scikit-learn)
+- [Bold Type Consulting][bold-type] & [Renovia Inc][renovia]: Built a **reporting pipeline** from [clinical trial data][renovia-clinical-trial] assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
 - Designed a machine learning **feature engineering** evaluation pipeline. (Python, numpy, scikit-learn)
 
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | January 2016 -- May 2018
@@ -93,7 +93,10 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 ---
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
 <!-- References -->
+[bioepic]: https://www.linkedin.com/company/bioepic-ltd/about/
+[bold-type]: http://boldtype.com/
 [data3]: https://www.skool.com/data3-5738
-[renovia]: https://clinicaltrials.gov/study/NCT04508153
+[renovia]: http://www.renoviainc.com/
+[renovia-clinical-trial]: https://clinicaltrials.gov/study/NCT04508153
 
 <link rel="stylesheet" href="resume_styling.css">
