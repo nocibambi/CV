@@ -6,6 +6,11 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 
 ## Career Highlights
 
+### Clinical Data Science & Engineering
+
+- Built a **clincal reporting pipeline** to assess a therapeutic device to train pelvic floor muscle for stress urinary incontinence. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
+- Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
+
 ### Data Platform Engineering
 
 - Developed ETL pipelines to provide on-chain and off-chain data in **Web3, Biotech, and Governance**.
@@ -18,17 +23,10 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 - Facilitated data-driven decision-making across **blockchain, governance, and biotech** sectors.
 - Created customized **reporting** solutions. Bolstered funding for medical device development by building reports from clinical trials.
 - Used **generative AI** to create **infrastructure and data flows documenation** for architecture review.
-- Built a glucose **forecasting model** achieving the accuracy of frontline medical devices.
-
-### Web3 Data Engineering
-
-- Developed high-impact **on-chain and off-chain analytics tools**. Built data pipelines for DAOs providing community, governance, and market insights.
-- Built a point tracker evaluating **Aave** liquidity providers.
-- Created a **[community][data3]** to learn about and build on Web3 data.
 
 ## Skills
 
-- **Data Engineering**: Data Collection (APIs, Beautifulsoup, Selenium, Playwright) | Data Validation (Pydantic) | Data Processing (pandas) | Databases (Microsoft Server SQL, InfluxDB) |  Flat files (csv, JSON, parquet, feather) | Data Monitoring (AWS Cloudwatch) | Data Pipeline Orchestration (AWS EventBridge, Apache Airflow, AWS Step Functions)
+- **Data Engineering**: Data Collection (APIs, Beautifulsoup, Selenium, Playwright) | Data Validation (Pydantic) | Data Processing (pandas, pyspark) | Databases (Microsoft Server SQL, InfluxDB) |  Flat files (csv, JSON, parquet, feather) | Data Monitoring (AWS Cloudwatch) | Data Pipeline Orchestration (AWS EventBridge, Apache Airflow, AWS Step Functions)
 - **Software Engineering**: Cloud Technologies (AWS) | AWS Microservices (Lambda, EC2, SNS, SQS) | Testing (pytest) | Version Control (git, Github, Gitlab) | Frontend (HTML, CSS, Javascript, Anvil) | Backend (Django, FastAPI) | Static-site generators (Jekyl, Hugo, MkDocs, Sphinx) | Python tooling (pip, conda, poetry, venv, black, flake8, mypy)
 - **DevOps**: CI/CD (AWS Codebuild/Codepipeline, Github Actions) | Infrastructure as Code (Python CDK/Terraform) | Software Deployment (Docker, AWS CodeArtifact, AWS ECR) |  SysAdmin (Linux, bash)
 - **Data Science**: Data processing (pandas, numpy) | Data Visualization (matplotlib, seaborn, altair, bokeh, plotly) | Querying (MS SQL, BigQuery, InfluxDB, Snowflake SQL) | Time-Series Analytics (pandas, InfluxDB) | Dashboards (Streamlit, Anvil/Dash)
@@ -48,6 +46,7 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 - Designed **structured logging, notifications, and dashboards** for data and infrastructure monitoring.
 - **Reduced code build time by 75%** through refactoring. Expanded CI/CD functionalities to increase build reliability and developer experience. (AWS CodeBuild, Lambda, CodeArtifacts, ECR, bash, and GitHub API)
 - **AI ambassador**: Integrated company-drived **AI development workflows** into team SDLC.
+- **AWS instructor**: Organizing and presenting about AWS topics (databases, microservices) for other engineers.
 
 ### Web3 Data Engineer | Aragon DAO | Remote | August 2022 -- February 2023
 
@@ -59,7 +58,7 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 - Resolved advanced analytics and data challenges across **Web3, Health, and Energy** sectors.
 - Built **analytics pipeline** for crypto arbitrage opportunities. Collected, processed and analyzed on-chain Terra/Cosmos data. (Flipside, Python, pandas)
 - Developed a time-series machine learning glucose **forecasting model**. Achieved the prediction accuracy of the market-leading commercial medical devices. (Python, numpy, pandas, scikit-learn)
-- Built a **reporting pipeline** from clinical trial data assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
+- Built a **reporting pipeline** from [clinical trial data][renovia] assessing a medical device. Generated actionable insights informing investment decisions. (Python, pandas, matplotlib, seaborn, jupyter)
 - Designed a machine learning **feature engineering** evaluation pipeline. (Python, numpy, scikit-learn)
 
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | January 2016 -- May 2018
@@ -95,5 +94,6 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
 <!-- References -->
 [data3]: https://www.skool.com/data3-5738
+[renovia]: https://clinicaltrials.gov/study/NCT04508153
 
 <link rel="stylesheet" href="resume_styling.css">
