@@ -79,7 +79,7 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 
 ### Aave Liquidity Provider TVL Point Tracker | 2024 October -- November
 
-- Built a point tracker evaluating **Aave** liquidity providers: <https://github.com/nocibambi/aave-lp-point-tracker>
+- Built a [point tracker][aave-point-tracker] evaluating **Aave** liquidity providers.
 - Collected **on-chain data** about assets, liquidity indexes, prices, wallets, and balances. (The Graph, Coingecko, Etherscan, web3.py).
 - Processed datasets and calculated points based on **Aave whitepapers** and documentation. (pandas)
 - Exposed the points via a **REST API**. (FastApi)
@@ -93,10 +93,11 @@ Designs, delivers, and operates **serverless cloud data collection platforms** a
 ---
 <p align="center">**Publications**: [Machines of Trust](https://www.machinesoftrust.com/) | [Medium](https://medium.com/@nocibambi) | [Dev.to](https://dev.to/nocibambi/series/31250)</p>
 <!-- References -->
-[bioepic]: https://www.linkedin.com/company/bioepic-ltd/about/
+[aave-point-tracker]: https://github.com/nocibambi/aave-lp-point-tracker
+[bioepic]: https://www.linkedin.com/company/bioepic-ltd/
 [bold-type]: http://boldtype.com/
 [data3]: https://www.skool.com/data3-5738
-[renovia]: http://www.renoviainc.com/
 [renovia-clinical-trial]: https://clinicaltrials.gov/study/NCT04508153
+[renovia]: https://www.linkedin.com/company/renoviainc/
 
 <link rel="stylesheet" href="resume_styling.css">
