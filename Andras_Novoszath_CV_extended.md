@@ -2,38 +2,39 @@
 
 Budapest, Hungary | +36 30 889 4244 | <nocibambi@gmail.com> | [LinkedIn](https://www.linkedin.com/in/andrasnovoszath/) | [Machines of Trust](https://www.machinesoftrust.com/)
 
-Over a decade of experience across data engineering, machine learning, and documentation / knowledge systems — applied to clinical trials, regulated reporting, B2B SaaS, and distributed organisations. Looking for projects in clinical research and longevity research data; OHDSI study underway.
+Over a decade of experience across data engineering, machine learning, and knowledge systems — applied to clinical research, and regulated data & analytics environments. Focusing on Real-World Data in clinical research.
 
 ## Experience
 
 ### Data Platform & Operations Engineer | Diligent | Budapest, Hungary | June 2023 -- Present
 
-- Designed and operated **serverless data-platform infrastructure** for governance and voting-data pipelines covering publicly listed companies.
-- Migrated legacy VBScript fetchers to Python and resolved data-quality, performance and rate-limit issues.
-- Introduced **Pydantic schema contracts** and output-validation models, structured logging, dashboards and alerting on CloudWatch, SNS and Slack.
-- Within Diligent's **DataHub** team, synchronised schemas across the voting-data scraper and downstream service repositories, and managed shared ECR / CodeArtifact images.
-- Built PySpark / EMR pipelines and Apache Airflow DAGs for incoming third-party data, with extensive unit tests and reproducible end-to-end local pipeline tests.
+- Designed and operated **serverless data-platform infrastructure** for governance and voting-data pipelines.
+- **Migrated data collection workflows** between languages (VBScript to Python) and infrastructures (CDK to Terraform). Resolved data-quality, performance and rate-limit issues.
+- **Built out data operations and QA monitoring** including structured logging, dashboards, and alerting (CloudWatch, SNS, Slack/Teams).
+- Built **PySpark / EMR pipelines and Apache Airflow DAGs** for ETL workflows following a medallion architecture.
 - Orchestrated **multi-month backfills** with live run logs and per-stage data-coverage summaries.
-- **Cut CI/CD build time by 75%** and expanded reliability and developer-experience tooling.
-- Acted as the DataHub team's **AI ambassador** (one role per Diligent engineering team) and integrated AI coding tools into the team's development process. Delivered internal AWS sessions on databases and microservices.
+- **Cut CI/CD build time by 75%** and expanded reliability and developer-experience tooling. Managed shared ECR / CodeArtifact images.
+- Acted as the team's **AI ambassador** and integrated AI into team workflow. Delivered internal **AWS training** sessions on databases and microservices.
 
 ### Data Insights Squad | Aragon | Remote | Aug 2022 -- Feb 2023
 
-- Built community and governance analytics for a distributed organisation, integrating multiple primary data sources (on-chain and off-chain) with end-to-end provenance.
+- Built community and governance analytics for a distributed organisation, integrating multiple primary data sources for governance analytics.
 - Designed and shipped a financial-oversight dashboard tracking treasury funds across distributed wallets.
 
 ### Data Scientist & Engineer | Freelance | Remote | Sep 2018 -- Jun 2023
 
-- **[Renovia][renovia] / [Bold Type Consulting][bold-type]**: built a clinical-trial reporting pipeline assessing a pelvic-floor therapeutic device for stress urinary incontinence; produced reports informing investment decisions.
+- **[Renovia][renovia]/[Bold Type Consulting][bold-type]**: built a clinical-trial reporting pipeline assessing a pelvic-floor therapeutic device for stress urinary incontinence; produced reports informing investment decisions.
 - **[Bioepic][bioepic]**: built a time-series glucose forecasting model from clinical-trial CGM data, **matching the prediction accuracy of market-leading commercial medical devices**.
-- Built an ML pipeline for evaluating feature-engineering techniques on a multi-label classification dataset.
+- Built an ML pipeline for evaluating feature-engineering techniques on multi-label classification datasets.
 - Delivered analytics work across health, energy and distributed-organisation contexts.
 
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | Jan 2016 -- May 2018
 
 - Supported a **B2B wealth-management SaaS** through regulation analysis, technical documentation, business proposals and marketing content.
-- Introduced a single-source documentation architecture and version control. Wrote three white papers on wealth management, mobile banking and financial innovation.
-- Translated compliance requirements into development guidelines; produced the business and functional sections of five RFPs and related RFIs.
+- Introduced a single-source documentation architecture and version control.
+- Wrote three white papers on wealth management, mobile banking and financial innovation.
+- Translated compliance requirements into development guidelines.
+- Produced the business and functional sections of five RFPs and related RFIs.
 
 ## Skills
 
@@ -64,21 +65,20 @@ Over a decade of experience across data engineering, machine learning, and docum
 
 ## Side-projects
 
-Project write-ups and tutorials also appear on [Medium][medium], [Dev.to][devto], and the [data-science blog][dsblog].
-
 - **[Aave Liquidity Provider TVL Point Tracker][aave]** (Oct -- Nov 2024) -- tracker computing token-balance points from primary on-chain data, with end-to-end source-to-metric provenance and verification; exposed via FastAPI.
-- **Token-Swap Pool / Market Comparison ETL** (Aug -- Sep 2024) -- pipeline integrating multiple distributed-market data sources with schema validation in Pydantic; no public repository ([related technical writing][medium]).
+- **[Token-Swap Pool / Market Comparison ETL][cow]** (Aug -- Sep 2024) -- pipeline integrating multiple distributed-market data sources with schema validation in Pydantic.
 - **[CTR outlier detection][ctr]** (Mar 2022, Adverity challenge) -- outlier detection on click-through-rate time-series data.
 - **[eBay car-pricing classifier][ebay]** (2018) -- ML classifier predicting whether a listed car is overpriced within its category (~0.83 AUC).
 - **[Atlas of Economic Complexity][aec]** (2018 -- 2021) -- exploratory analytics and visualisation of public economic-complexity data.
 - **[R&D investments analysis][rnd]** (Feb 2018) -- exploratory analysis of public R&D and technology-investment data.
+- Technical write-ups and tutorials: [Medium][medium], [Dev.to][devto], [Data Science learning notes][dsblog].
 
 ## Publications & Writing
 
 - [Machines of Trust][mot] -- essays on knowledge, technology and trust.
 - [Medium][medium] -- technical writing on Python, data engineering and distributed-data analytics.
-- [Dev.to series][devto] -- technical-writing series.
-- [Personal data-science blog][dsblog] -- project portfolio and tutorials.
+- [Dev.to series][devto] -- technical-writing series about Web3 Data.
+- [Data Science learning notes][dsblog] -- project portfolio and tutorials.
 
 ## Currently studying
 
@@ -86,6 +86,7 @@ OHDSI / OMOP data model (EHDEN academy) and clinical-evidence methodology — ta
 
 [aave]: https://github.com/nocibambi/aave-lp-point-tracker
 [aec]: https://github.com/nocibambi/aec
+[cow]: https://github.com/nocibambi/cow-swap-price-improvement
 [ctr]: https://github.com/nocibambi/adverity-ctr-challenge
 [ebay]: https://github.com/nocibambi/ebay-car-pricing
 [rnd]: https://github.com/nocibambi/rnd-inv-dat
