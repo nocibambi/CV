@@ -11,19 +11,19 @@ Over a decade of experience across data engineering, machine learning, and knowl
 - Designed and operated **serverless data-platform infrastructure** for governance and voting-data pipelines.
 - **Migrated data collection workflows** between languages (VBScript to Python) and infrastructures (CDK to Terraform). Resolved data-quality, performance and rate-limit issues.
 - **Built out data operations and QA monitoring** including structured logging, dashboards, and alerting (CloudWatch, SNS, Slack/Teams).
-- Built **PySpark / EMR pipelines and Apache Airflow DAGs** for ETL workflows following a medallion architecture.
+- Built **PySpark / EMR pipelines and Apache Airflow DAGs** for ETL workflows within a medallion architecture.
 - Orchestrated **multi-month backfills** with live run logs and per-stage data-coverage summaries.
 - **Cut CI/CD build time by 75%** and expanded reliability and developer-experience tooling. Managed shared ECR / CodeArtifact images.
-- Acted as the team's **AI ambassador** and integrated AI into team workflow. Delivered internal **AWS training** sessions on databases and microservices.
+- **Integrated AI tools** into team workflow. Delivered internal **AWS training** sessions on databases and microservices.
 
 ### Data Insights Squad | Aragon | Remote | Aug 2022 -- Feb 2023
 
-- Built community and governance analytics for a distributed organisation, integrating multiple primary data sources for governance analytics.
+- Built community and governance analytics for a distributed organisation, integrating multiple primary data sources for reporting and oversight.
 - Designed and shipped a financial-oversight dashboard tracking treasury funds across distributed wallets.
 
 ### Data Scientist & Engineer | Freelance | Remote | Sep 2018 -- Jun 2023
 
-- **[Renovia][renovia]/[Bold Type Consulting][bold-type]**: built a clinical-trial reporting pipeline assessing a pelvic-floor therapeutic device for stress urinary incontinence; produced reports informing investment decisions.
+- **[Renovia][renovia]/[Bold Type Consulting][bold-type]**: built a clinical research reporting pipeline assessing a pelvic-floor therapeutic device for stress urinary incontinence; data was critical in securing funding.
 - **[Bioepic][bioepic]**: built a time-series glucose forecasting model from clinical-trial CGM data, **matching the prediction accuracy of market-leading commercial medical devices**.
 - Built an ML pipeline for evaluating feature-engineering techniques on multi-label classification datasets.
 - Delivered analytics work across health, energy and distributed-organisation contexts.
@@ -31,25 +31,25 @@ Over a decade of experience across data engineering, machine learning, and knowl
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | Jan 2016 -- May 2018
 
 - Supported a **B2B wealth-management SaaS** through regulation analysis, technical documentation, business proposals and marketing content.
-- Introduced a single-source documentation architecture and version control.
-- Wrote three white papers on wealth management, mobile banking and financial innovation.
+- Introduced single-source documentation architecture and version control.
+- Wrote white papers on wealth management, mobile banking and financial innovation.
 - Translated compliance requirements into development guidelines.
 - Produced the business and functional sections of five RFPs and related RFIs.
 
 ## Skills
 
 - **Clinical & research data**: clinical-trial reporting, biosignal time-series modelling.
-- **Data engineering**: Python, pandas, NumPy, PySpark, SQL (MS SQL, BigQuery, Snowflake, InfluxDB), Pydantic, Apache Airflow, AWS Step Functions, EventBridge, requests, BeautifulSoup, Selenium, Playwright.
-- **Cloud & DevOps**: AWS (Lambda, EMR, SNS, SQS, CloudWatch, CodeBuild, CodePipeline, CodeArtifact, ECR), Terraform, AWS CDK, Docker, GitHub Actions, Linux, bash.
-- **Machine learning**: scikit-learn, Keras; time-series forecasting, classification, clustering, cross-validation, feature-engineering evaluation.
-- **Data visualisation & dashboards**: matplotlib, seaborn, altair, plotly; Streamlit, Dash, Anvil.
-- **AI in development**: Cursor and VS Code agents; project-specific agent configurations; prompt engineering.
+- **Data engineering**: Python, pandas, NumPy, pyspark, SQL (MS SQL, BigQuery, Snowflake, InfluxDB), Pydantic, Apache Airflow, requests, BeautifulSoup, Selenium, Playwright.
+- **Cloud & DevOps**: AWS (Lambda, EMR, SNS, SQS, CloudWatch, CodeBuild, CodePipeline, CodeArtifact, ECR, Step Functions, EventBridge), Terraform, AWS CDK, Docker, GitHub Actions, Linux, bash.
+- **Machine learning**: scikit-learn, Keras, time-series forecasting, classification, clustering, cross-validation, feature-engineering evaluation.
+- **Data visualisation & dashboards**: matplotlib, seaborn, altair, plotly, Streamlit, Dash, Anvil.
+- **AI in development**: Cursor and VS Code agents, project-specific agent configurations, prompt engineering.
 - **Methodology & research**: research design, ethnographic and evidence-practice analysis, technical writing, regulation analysis.
 - **Languages**: English (fluent), Hungarian (native).
 
 ## Education
 
-- **Ph.D., Science & Technology Studies** -- The Open University, 2010 -- 2016. Ethnographic study of knowledge production and technology adoption in regulated and innovative domains. Fieldwork on the Bristol Pound local currency.
+- **Ph.D., Science & Technology Studies** -- The Open University, 2010 -- 2016. Ethnographic study of knowledge production and technologies. Fieldwork on the Bristol Pound local currency.
 - **Diploma (BA + MA), Economics** -- Budapest University of Technology and Economics, 2002 -- 2007. Specialisation in economic analysis: statistics, econometrics, optimisation. Dissertation on economic growth models.
 
 ## Certifications
