@@ -2,8 +2,3 @@
 
 - [PDF](Andras_Novoszath_CV.pdf)
 - [Markdown](Andras_Novoszath_CV.md)
-
-
-```bash
-make convert
-```
