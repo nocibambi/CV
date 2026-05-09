@@ -11,7 +11,7 @@ Over a decade of experience across data engineering, machine learning, and docum
 - Designed and operated **serverless data-platform infrastructure** for governance and voting-data pipelines covering publicly listed companies.
 - Migrated legacy VBScript fetchers to Python and resolved data-quality, performance and rate-limit issues.
 - Introduced **Pydantic schema contracts** and output-validation models, structured logging, dashboards and alerting on CloudWatch, SNS and Slack.
-- Synchronised schemas across the team's scraper and downstream service repositories, and managed shared ECR / CodeArtifact images.
+- Within Diligent's **DataHub** team, synchronised schemas across the voting-data scraper and downstream service repositories, and managed shared ECR / CodeArtifact images.
 - Built PySpark / EMR pipelines and Apache Airflow DAGs for incoming third-party data, with extensive unit tests and reproducible end-to-end local pipeline tests.
 - Orchestrated **multi-month backfills** with live run logs and per-stage data-coverage summaries.
 - **Cut CI/CD build time by 75%** and expanded reliability and developer-experience tooling.
@@ -57,16 +57,21 @@ Over a decade of experience across data engineering, machine learning, and docum
 
 ## Certifications
 
-Mathematics for Machine Learning (Coursera, 2019) | IBM Cognitive Class -- Data Science Foundations & Business levels (2017) | Arc Certified Remote Data Scientist (2022) | Using Databases with Python (Coursera, 2018).
+- Mathematics for Machine Learning (Coursera, 2019).
+- IBM Cognitive Class -- Data Science Foundations & Business levels (2017).
+- Arc Certified Remote Data Scientist (2022).
+- Using Databases with Python (Coursera, 2018).
 
 ## Side-projects
 
+Project write-ups and tutorials also appear on [Medium][medium], [Dev.to][devto], and the [data-science blog][dsblog].
+
 - **[Aave Liquidity Provider TVL Point Tracker][aave]** (Oct -- Nov 2024) -- tracker computing token-balance points from primary on-chain data, with end-to-end source-to-metric provenance and verification; exposed via FastAPI.
-- **Token-Swap Pool / Market Comparison ETL** (Aug -- Sep 2024) -- pipeline integrating multiple distributed-market data sources with schema validation in Pydantic.
-- **CTR outlier detection** (Adverity challenge) -- outlier detection on click-through-rate time-series data.
-- **eBay car-pricing classifier** -- ML classifier predicting whether a listed car is overpriced within its category (~0.83 AUC).
-- **Atlas of Economic Complexity** -- exploratory analytics and visualisation of public economic-complexity data.
-- **R&D investments analysis** -- exploratory analysis of public R&D and technology-investment data.
+- **Token-Swap Pool / Market Comparison ETL** (Aug -- Sep 2024) -- pipeline integrating multiple distributed-market data sources with schema validation in Pydantic; no public repository ([related technical writing][medium]).
+- **[CTR outlier detection][ctr]** (Mar 2022, Adverity challenge) -- outlier detection on click-through-rate time-series data.
+- **[eBay car-pricing classifier][ebay]** (2018) -- ML classifier predicting whether a listed car is overpriced within its category (~0.83 AUC).
+- **[Atlas of Economic Complexity][aec]** (2018 -- 2021) -- exploratory analytics and visualisation of public economic-complexity data.
+- **[R&D investments analysis][rnd]** (Feb 2018) -- exploratory analysis of public R&D and technology-investment data.
 
 ## Publications & Writing
 
@@ -80,6 +85,10 @@ Mathematics for Machine Learning (Coursera, 2019) | IBM Cognitive Class -- Data 
 OHDSI / OMOP data model (EHDEN academy) and clinical-evidence methodology — target-trial emulation, propensity-score matching, and external-control study design.
 
 [aave]: https://github.com/nocibambi/aave-lp-point-tracker
+[aec]: https://github.com/nocibambi/aec
+[ctr]: https://github.com/nocibambi/adverity-ctr-challenge
+[ebay]: https://github.com/nocibambi/ebay-car-pricing
+[rnd]: https://github.com/nocibambi/rnd-inv-dat
 [bioepic]: https://www.linkedin.com/company/bioepic-ltd/
 [bold-type]: http://boldtype.com/
 [devto]: https://dev.to/nocibambi/series/31250
