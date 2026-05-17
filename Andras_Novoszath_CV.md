@@ -31,10 +31,11 @@ Over a decade of experience across data engineering, machine learning, and knowl
 ### Junior Consultant & Technical Writer | Dorsum | Budapest, Hungary | Jan 2016 -- May 2018
 
 - Supported a **B2B wealth-management SaaS** through regulation analysis, technical documentation, business proposals and marketing content.
-- Introduced single-source documentation architecture and version control.
+- Translated compliance requirements into developer-facing guidelines and introduced single-source documentation practices.
 - Wrote white papers on wealth management, mobile banking and financial innovation.
-- Translated compliance requirements into development guidelines.
 - Produced the business and functional sections of five RFPs and related RFIs.
+
+<div class="page-break"></div>
 
 ## Skills
 
@@ -64,25 +65,44 @@ Over a decade of experience across data engineering, machine learning, and knowl
 - **[Aave Liquidity Provider TVL Point Tracker][aave]** (Oct -- Nov 2024) -- tracker computing token-balance points from primary on-chain data, with end-to-end source-to-metric provenance and verification; results exposed via FastAPI.
 - **[Token-Swap Pool / Market Comparison ETL][cow]** (Aug -- Sep 2024) -- pipeline integrating multiple distributed-market data sources with schema validation in Pydantic.
 - **[CTR outlier detection][ctr]** (Mar 2022, Adverity challenge) -- outlier detection on click-through-rate time-series data.
-- **[eBay car-pricing classifier][ebay]** (2018) -- ML classifier predicting whether a listed car is overpriced within its category (~0.83 AUC).
-- **[Atlas of Economic Complexity][aec]** (2018 -- 2021) -- exploratory analytics and visualisation of public economic-complexity data.
-- Technical write-ups and tutorials: [Medium][medium], [Dev.to][devto], [Data Science learning notes][dsblog].
+- Technical write-ups and essays: [Machines of Trust][mot], [Medium][medium], [Dev.to][devto], [Data Science learning notes][dsblog].
 
 ## Currently studying
 
 OHDSI / OMOP data model (EHDEN academy) and clinical-evidence methodology — target-trial emulation, propensity-score matching, and external-control study design.
 
 [aave]: https://github.com/nocibambi/aave-lp-point-tracker
-[aec]: https://github.com/nocibambi/aec
 [cow]: https://github.com/nocibambi/cow-swap-price-improvement
 [ctr]: https://github.com/nocibambi/adverity-ctr-challenge
-[ebay]: https://github.com/nocibambi/ebay-car-pricing
 [bioepic]: https://www.linkedin.com/company/bioepic-ltd/
 [bold-type]: http://boldtype.com/
 [devto]: https://dev.to/nocibambi/series/31250
 [renovia]: https://www.linkedin.com/company/renoviainc/
 [renovia-clinical-trial]: https://clinicaltrials.gov/study/NCT04508153
 [medium]: https://medium.com/@nocibambi
+[mot]: https://www.machinesoftrust.com/
 [dsblog]: https://nocibambi.github.io/ds_blog/
 
 <link rel="stylesheet" href="resume_styling.css">
+<style>
+body {
+    line-height: 24px;
+}
+
+h2 {
+    margin-top: 28px;
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-bottom: 23px;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+.page-break {
+    page-break-before: always;
+}
+</style>
