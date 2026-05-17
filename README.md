@@ -1,4 +1,4 @@
-# András Novoszáth CV
+# András Novoszáth — CV
 
-- [PDF](Andras_Novoszath_CV_BDE.pdf)
-- [Markdown](https://github.com/nocibambi/CV/blob/main/Andras_Novoszath_CV_BDE.md)
+- [2-page PDF](Andras_Novoszath_CV.pdf)
+- [Extended (HTML)](https://nocibambi.github.io/CV/Andras_Novoszath_CV_extended.html)
